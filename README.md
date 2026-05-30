@@ -1,5 +1,9 @@
 # FAQ Chatbot using NLP
 
+## Live Demo
+
+https://faq-chatbot-laibaakram.streamlit.app/
+
 ## Project Overview
 
 This project is an FAQ Chatbot developed using Python, Streamlit, NLTK, and Scikit-Learn.
